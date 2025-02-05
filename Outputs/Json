@@ -1,0 +1,2037 @@
+{
+  "apim-request-id": "d27c98d2-b63f-4e4c-82b5-a0dfee43afd5",
+  "content-length": "154",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a man and woman skydiving",
+    "confidence": 0.9273819923400879
+  },
+  "metadata": {
+    "width": 5568,
+    "height": 4872
+  }
+}
+
+
+[
+  {
+    "lines": [
+      {
+        "text": "Resultados da avaliação prática: 22 de janeiro de 2025",
+        "boundingPolygon": [
+          {
+            "x": 55,
+            "y": 58
+          },
+          {
+            "x": 888,
+            "y": 58
+          },
+          {
+            "x": 888,
+            "y": 98
+          },
+          {
+            "x": 55,
+            "y": 98
+          }
+        ],
+        "words": [
+          {
+            "text": "Resultados",
+            "boundingPolygon": [
+              {
+                "x": 55,
+                "y": 61
+              },
+              {
+                "x": 221,
+                "y": 60
+              },
+              {
+                "x": 221,
+                "y": 96
+              },
+              {
+                "x": 55,
+                "y": 92
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "da",
+            "boundingPolygon": [
+              {
+                "x": 229,
+                "y": 60
+              },
+              {
+                "x": 270,
+                "y": 60
+              },
+              {
+                "x": 269,
+                "y": 97
+              },
+              {
+                "x": 229,
+                "y": 96
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "avaliação",
+            "boundingPolygon": [
+              {
+                "x": 278,
+                "y": 60
+              },
+              {
+                "x": 419,
+                "y": 59
+              },
+              {
+                "x": 418,
+                "y": 99
+              },
+              {
+                "x": 277,
+                "y": 97
+              }
+            ],
+            "confidence": 0.75
+          },
+          {
+            "text": "prática:",
+            "boundingPolygon": [
+              {
+                "x": 429,
+                "y": 59
+              },
+              {
+                "x": 546,
+                "y": 59
+              },
+              {
+                "x": 546,
+                "y": 99
+              },
+              {
+                "x": 429,
+                "y": 99
+              }
+            ],
+            "confidence": 0.816
+          },
+          {
+            "text": "22",
+            "boundingPolygon": [
+              {
+                "x": 554,
+                "y": 59
+              },
+              {
+                "x": 592,
+                "y": 59
+              },
+              {
+                "x": 592,
+                "y": 99
+              },
+              {
+                "x": 553,
+                "y": 99
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 600,
+                "y": 59
+              },
+              {
+                "x": 637,
+                "y": 59
+              },
+              {
+                "x": 636,
+                "y": 99
+              },
+              {
+                "x": 600,
+                "y": 99
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "janeiro",
+            "boundingPolygon": [
+              {
+                "x": 644,
+                "y": 59
+              },
+              {
+                "x": 753,
+                "y": 59
+              },
+              {
+                "x": 753,
+                "y": 98
+              },
+              {
+                "x": 644,
+                "y": 99
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 764,
+                "y": 59
+              },
+              {
+                "x": 805,
+                "y": 59
+              },
+              {
+                "x": 804,
+                "y": 97
+              },
+              {
+                "x": 763,
+                "y": 98
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "2025",
+            "boundingPolygon": [
+              {
+                "x": 813,
+                "y": 59
+              },
+              {
+                "x": 888,
+                "y": 59
+              },
+              {
+                "x": 887,
+                "y": 96
+              },
+              {
+                "x": 812,
+                "y": 97
+              }
+            ],
+            "confidence": 0.991
+          }
+        ]
+      },
+      {
+        "text": "Microsoft",
+        "boundingPolygon": [
+          {
+            "x": 90,
+            "y": 145
+          },
+          {
+            "x": 135,
+            "y": 146
+          },
+          {
+            "x": 135,
+            "y": 157
+          },
+          {
+            "x": 90,
+            "y": 157
+          }
+        ],
+        "words": [
+          {
+            "text": "Microsoft",
+            "boundingPolygon": [
+              {
+                "x": 90,
+                "y": 146
+              },
+              {
+                "x": 135,
+                "y": 147
+              },
+              {
+                "x": 134,
+                "y": 157
+              },
+              {
+                "x": 90,
+                "y": 157
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "Avaliação Prática do Exame PL-900: Conceitos",
+        "boundingPolygon": [
+          {
+            "x": 182,
+            "y": 161
+          },
+          {
+            "x": 558,
+            "y": 161
+          },
+          {
+            "x": 558,
+            "y": 183
+          },
+          {
+            "x": 182,
+            "y": 183
+          }
+        ],
+        "words": [
+          {
+            "text": "Avaliação",
+            "boundingPolygon": [
+              {
+                "x": 182,
+                "y": 163
+              },
+              {
+                "x": 260,
+                "y": 162
+              },
+              {
+                "x": 259,
+                "y": 184
+              },
+              {
+                "x": 182,
+                "y": 183
+              }
+            ],
+            "confidence": 0.824
+          },
+          {
+            "text": "Prática",
+            "boundingPolygon": [
+              {
+                "x": 264,
+                "y": 162
+              },
+              {
+                "x": 321,
+                "y": 161
+              },
+              {
+                "x": 321,
+                "y": 184
+              },
+              {
+                "x": 264,
+                "y": 184
+              }
+            ],
+            "confidence": 0.955
+          },
+          {
+            "text": "do",
+            "boundingPolygon": [
+              {
+                "x": 326,
+                "y": 161
+              },
+              {
+                "x": 347,
+                "y": 161
+              },
+              {
+                "x": 347,
+                "y": 184
+              },
+              {
+                "x": 325,
+                "y": 184
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "Exame",
+            "boundingPolygon": [
+              {
+                "x": 351,
+                "y": 161
+              },
+              {
+                "x": 405,
+                "y": 161
+              },
+              {
+                "x": 404,
+                "y": 184
+              },
+              {
+                "x": 351,
+                "y": 184
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "PL-900:",
+            "boundingPolygon": [
+              {
+                "x": 409,
+                "y": 161
+              },
+              {
+                "x": 472,
+                "y": 162
+              },
+              {
+                "x": 472,
+                "y": 184
+              },
+              {
+                "x": 409,
+                "y": 184
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "Conceitos",
+            "boundingPolygon": [
+              {
+                "x": 476,
+                "y": 162
+              },
+              {
+                "x": 558,
+                "y": 162
+              },
+              {
+                "x": 558,
+                "y": 184
+              },
+              {
+                "x": 476,
+                "y": 184
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "EXAM",
+        "boundingPolygon": [
+          {
+            "x": 86,
+            "y": 182
+          },
+          {
+            "x": 136,
+            "y": 183
+          },
+          {
+            "x": 136,
+            "y": 197
+          },
+          {
+            "x": 86,
+            "y": 197
+          }
+        ],
+        "words": [
+          {
+            "text": "EXAM",
+            "boundingPolygon": [
+              {
+                "x": 88,
+                "y": 183
+              },
+              {
+                "x": 128,
+                "y": 183
+              },
+              {
+                "x": 127,
+                "y": 198
+              },
+              {
+                "x": 88,
+                "y": 198
+              }
+            ],
+            "confidence": 0.989
+          }
+        ]
+      },
+      {
+        "text": "básicos do Microsoft Power Platform",
+        "boundingPolygon": [
+          {
+            "x": 182,
+            "y": 186
+          },
+          {
+            "x": 487,
+            "y": 186
+          },
+          {
+            "x": 487,
+            "y": 208
+          },
+          {
+            "x": 182,
+            "y": 208
+          }
+        ],
+        "words": [
+          {
+            "text": "básicos",
+            "boundingPolygon": [
+              {
+                "x": 183,
+                "y": 188
+              },
+              {
+                "x": 242,
+                "y": 187
+              },
+              {
+                "x": 241,
+                "y": 208
+              },
+              {
+                "x": 182,
+                "y": 208
+              }
+            ],
+            "confidence": 0.745
+          },
+          {
+            "text": "do",
+            "boundingPolygon": [
+              {
+                "x": 246,
+                "y": 187
+              },
+              {
+                "x": 269,
+                "y": 187
+              },
+              {
+                "x": 268,
+                "y": 208
+              },
+              {
+                "x": 246,
+                "y": 208
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "Microsoft",
+            "boundingPolygon": [
+              {
+                "x": 273,
+                "y": 187
+              },
+              {
+                "x": 352,
+                "y": 187
+              },
+              {
+                "x": 351,
+                "y": 209
+              },
+              {
+                "x": 272,
+                "y": 208
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "Power",
+            "boundingPolygon": [
+              {
+                "x": 356,
+                "y": 187
+              },
+              {
+                "x": 407,
+                "y": 187
+              },
+              {
+                "x": 406,
+                "y": 209
+              },
+              {
+                "x": 355,
+                "y": 209
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "Platform",
+            "boundingPolygon": [
+              {
+                "x": 411,
+                "y": 187
+              },
+              {
+                "x": 477,
+                "y": 187
+              },
+              {
+                "x": 476,
+                "y": 208
+              },
+              {
+                "x": 410,
+                "y": 209
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "Você levou 53 minutos para concluir essa avaliação.",
+        "boundingPolygon": [
+          {
+            "x": 53,
+            "y": 269
+          },
+          {
+            "x": 419,
+            "y": 269
+          },
+          {
+            "x": 419,
+            "y": 288
+          },
+          {
+            "x": 53,
+            "y": 288
+          }
+        ],
+        "words": [
+          {
+            "text": "Você",
+            "boundingPolygon": [
+              {
+                "x": 54,
+                "y": 270
+              },
+              {
+                "x": 88,
+                "y": 270
+              },
+              {
+                "x": 88,
+                "y": 288
+              },
+              {
+                "x": 55,
+                "y": 288
+              }
+            ],
+            "confidence": 0.958
+          },
+          {
+            "text": "levou",
+            "boundingPolygon": [
+              {
+                "x": 91,
+                "y": 270
+              },
+              {
+                "x": 130,
+                "y": 269
+              },
+              {
+                "x": 130,
+                "y": 288
+              },
+              {
+                "x": 92,
+                "y": 288
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "53",
+            "boundingPolygon": [
+              {
+                "x": 135,
+                "y": 269
+              },
+              {
+                "x": 153,
+                "y": 269
+              },
+              {
+                "x": 153,
+                "y": 288
+              },
+              {
+                "x": 136,
+                "y": 288
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "minutos",
+            "boundingPolygon": [
+              {
+                "x": 156,
+                "y": 269
+              },
+              {
+                "x": 214,
+                "y": 269
+              },
+              {
+                "x": 214,
+                "y": 289
+              },
+              {
+                "x": 157,
+                "y": 288
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "para",
+            "boundingPolygon": [
+              {
+                "x": 218,
+                "y": 269
+              },
+              {
+                "x": 250,
+                "y": 269
+              },
+              {
+                "x": 250,
+                "y": 289
+              },
+              {
+                "x": 218,
+                "y": 289
+              }
+            ],
+            "confidence": 0.988
+          },
+          {
+            "text": "concluir",
+            "boundingPolygon": [
+              {
+                "x": 254,
+                "y": 269
+              },
+              {
+                "x": 310,
+                "y": 269
+              },
+              {
+                "x": 310,
+                "y": 289
+              },
+              {
+                "x": 254,
+                "y": 289
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "essa",
+            "boundingPolygon": [
+              {
+                "x": 314,
+                "y": 269
+              },
+              {
+                "x": 345,
+                "y": 269
+              },
+              {
+                "x": 345,
+                "y": 289
+              },
+              {
+                "x": 314,
+                "y": 289
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "avaliação.",
+            "boundingPolygon": [
+              {
+                "x": 349,
+                "y": 269
+              },
+              {
+                "x": 419,
+                "y": 270
+              },
+              {
+                "x": 419,
+                "y": 289
+              },
+              {
+                "x": 349,
+                "y": 289
+              }
+            ],
+            "confidence": 0.692
+          }
+        ]
+      },
+      {
+        "text": "Resultados gerais",
+        "boundingPolygon": [
+          {
+            "x": 54,
+            "y": 339
+          },
+          {
+            "x": 279,
+            "y": 339
+          },
+          {
+            "x": 279,
+            "y": 369
+          },
+          {
+            "x": 54,
+            "y": 369
+          }
+        ],
+        "words": [
+          {
+            "text": "Resultados",
+            "boundingPolygon": [
+              {
+                "x": 55,
+                "y": 340
+              },
+              {
+                "x": 195,
+                "y": 340
+              },
+              {
+                "x": 194,
+                "y": 370
+              },
+              {
+                "x": 55,
+                "y": 370
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "gerais",
+            "boundingPolygon": [
+              {
+                "x": 201,
+                "y": 340
+              },
+              {
+                "x": 279,
+                "y": 340
+              },
+              {
+                "x": 279,
+                "y": 370
+              },
+              {
+                "x": 200,
+                "y": 370
+              }
+            ],
+            "confidence": 0.997
+          }
+        ]
+      },
+      {
+        "text": "Para se preparar para o exame, obtenha uma pontuação de 80% ou superior. Você pode realizar varias tentativas.",
+        "boundingPolygon": [
+          {
+            "x": 74,
+            "y": 405
+          },
+          {
+            "x": 875,
+            "y": 405
+          },
+          {
+            "x": 875,
+            "y": 424
+          },
+          {
+            "x": 74,
+            "y": 425
+          }
+        ],
+        "words": [
+          {
+            "text": "Para",
+            "boundingPolygon": [
+              {
+                "x": 75,
+                "y": 406
+              },
+              {
+                "x": 106,
+                "y": 406
+              },
+              {
+                "x": 106,
+                "y": 426
+              },
+              {
+                "x": 75,
+                "y": 426
+              }
+            ],
+            "confidence": 0.991
+          },
+          {
+            "text": "se",
+            "boundingPolygon": [
+              {
+                "x": 110,
+                "y": 406
+              },
+              {
+                "x": 125,
+                "y": 406
+              },
+              {
+                "x": 125,
+                "y": 426
+              },
+              {
+                "x": 110,
+                "y": 426
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "preparar",
+            "boundingPolygon": [
+              {
+                "x": 129,
+                "y": 406
+              },
+              {
+                "x": 190,
+                "y": 406
+              },
+              {
+                "x": 189,
+                "y": 426
+              },
+              {
+                "x": 129,
+                "y": 426
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "para",
+            "boundingPolygon": [
+              {
+                "x": 193,
+                "y": 406
+              },
+              {
+                "x": 226,
+                "y": 405
+              },
+              {
+                "x": 225,
+                "y": 426
+              },
+              {
+                "x": 193,
+                "y": 426
+              }
+            ],
+            "confidence": 0.984
+          },
+          {
+            "text": "o",
+            "boundingPolygon": [
+              {
+                "x": 229,
+                "y": 405
+              },
+              {
+                "x": 238,
+                "y": 405
+              },
+              {
+                "x": 238,
+                "y": 426
+              },
+              {
+                "x": 229,
+                "y": 426
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "exame,",
+            "boundingPolygon": [
+              {
+                "x": 242,
+                "y": 405
+              },
+              {
+                "x": 294,
+                "y": 405
+              },
+              {
+                "x": 293,
+                "y": 426
+              },
+              {
+                "x": 242,
+                "y": 426
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "obtenha",
+            "boundingPolygon": [
+              {
+                "x": 297,
+                "y": 405
+              },
+              {
+                "x": 356,
+                "y": 405
+              },
+              {
+                "x": 356,
+                "y": 426
+              },
+              {
+                "x": 297,
+                "y": 426
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "uma",
+            "boundingPolygon": [
+              {
+                "x": 360,
+                "y": 405
+              },
+              {
+                "x": 391,
+                "y": 405
+              },
+              {
+                "x": 391,
+                "y": 426
+              },
+              {
+                "x": 360,
+                "y": 426
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "pontuação",
+            "boundingPolygon": [
+              {
+                "x": 395,
+                "y": 405
+              },
+              {
+                "x": 472,
+                "y": 405
+              },
+              {
+                "x": 471,
+                "y": 425
+              },
+              {
+                "x": 395,
+                "y": 426
+              }
+            ],
+            "confidence": 0.417
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 476,
+                "y": 405
+              },
+              {
+                "x": 494,
+                "y": 405
+              },
+              {
+                "x": 494,
+                "y": 425
+              },
+              {
+                "x": 476,
+                "y": 425
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "80%",
+            "boundingPolygon": [
+              {
+                "x": 498,
+                "y": 405
+              },
+              {
+                "x": 529,
+                "y": 405
+              },
+              {
+                "x": 528,
+                "y": 425
+              },
+              {
+                "x": 497,
+                "y": 425
+              }
+            ],
+            "confidence": 0.958
+          },
+          {
+            "text": "ou",
+            "boundingPolygon": [
+              {
+                "x": 532,
+                "y": 405
+              },
+              {
+                "x": 551,
+                "y": 405
+              },
+              {
+                "x": 551,
+                "y": 425
+              },
+              {
+                "x": 532,
+                "y": 425
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "superior.",
+            "boundingPolygon": [
+              {
+                "x": 556,
+                "y": 405
+              },
+              {
+                "x": 617,
+                "y": 405
+              },
+              {
+                "x": 617,
+                "y": 425
+              },
+              {
+                "x": 555,
+                "y": 425
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "Você",
+            "boundingPolygon": [
+              {
+                "x": 621,
+                "y": 405
+              },
+              {
+                "x": 656,
+                "y": 405
+              },
+              {
+                "x": 655,
+                "y": 425
+              },
+              {
+                "x": 621,
+                "y": 425
+              }
+            ],
+            "confidence": 0.469
+          },
+          {
+            "text": "pode",
+            "boundingPolygon": [
+              {
+                "x": 660,
+                "y": 405
+              },
+              {
+                "x": 697,
+                "y": 405
+              },
+              {
+                "x": 696,
+                "y": 425
+              },
+              {
+                "x": 659,
+                "y": 425
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "realizar",
+            "boundingPolygon": [
+              {
+                "x": 701,
+                "y": 405
+              },
+              {
+                "x": 751,
+                "y": 406
+              },
+              {
+                "x": 750,
+                "y": 424
+              },
+              {
+                "x": 700,
+                "y": 425
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "varias",
+            "boundingPolygon": [
+              {
+                "x": 755,
+                "y": 406
+              },
+              {
+                "x": 797,
+                "y": 406
+              },
+              {
+                "x": 796,
+                "y": 424
+              },
+              {
+                "x": 754,
+                "y": 424
+              }
+            ],
+            "confidence": 0.943
+          },
+          {
+            "text": "tentativas.",
+            "boundingPolygon": [
+              {
+                "x": 801,
+                "y": 406
+              },
+              {
+                "x": 875,
+                "y": 406
+              },
+              {
+                "x": 875,
+                "y": 424
+              },
+              {
+                "x": 800,
+                "y": 424
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      },
+      {
+        "text": "Pontuação: 86%",
+        "boundingPolygon": [
+          {
+            "x": 260,
+            "y": 463
+          },
+          {
+            "x": 379,
+            "y": 463
+          },
+          {
+            "x": 379,
+            "y": 481
+          },
+          {
+            "x": 260,
+            "y": 482
+          }
+        ],
+        "words": [
+          {
+            "text": "Pontuação:",
+            "boundingPolygon": [
+              {
+                "x": 261,
+                "y": 464
+              },
+              {
+                "x": 341,
+                "y": 463
+              },
+              {
+                "x": 341,
+                "y": 482
+              },
+              {
+                "x": 260,
+                "y": 482
+              }
+            ],
+            "confidence": 0.959
+          },
+          {
+            "text": "86%",
+            "boundingPolygon": [
+              {
+                "x": 345,
+                "y": 463
+              },
+              {
+                "x": 378,
+                "y": 463
+              },
+              {
+                "x": 378,
+                "y": 481
+              },
+              {
+                "x": 345,
+                "y": 482
+              }
+            ],
+            "confidence": 0.99
+          }
+        ]
+      },
+      {
+        "text": "Mostrar minhas respostas",
+        "boundingPolygon": [
+          {
+            "x": 413,
+            "y": 549
+          },
+          {
+            "x": 607,
+            "y": 550
+          },
+          {
+            "x": 607,
+            "y": 570
+          },
+          {
+            "x": 413,
+            "y": 569
+          }
+        ],
+        "words": [
+          {
+            "text": "Mostrar",
+            "boundingPolygon": [
+              {
+                "x": 417,
+                "y": 549
+              },
+              {
+                "x": 475,
+                "y": 549
+              },
+              {
+                "x": 474,
+                "y": 570
+              },
+              {
+                "x": 416,
+                "y": 569
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "minhas",
+            "boundingPolygon": [
+              {
+                "x": 478,
+                "y": 549
+              },
+              {
+                "x": 531,
+                "y": 550
+              },
+              {
+                "x": 530,
+                "y": 570
+              },
+              {
+                "x": 478,
+                "y": 570
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "respostas",
+            "boundingPolygon": [
+              {
+                "x": 535,
+                "y": 550
+              },
+              {
+                "x": 607,
+                "y": 551
+              },
+              {
+                "x": 605,
+                "y": 570
+              },
+              {
+                "x": 534,
+                "y": 570
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "Desempenho por seção de avaliação",
+        "boundingPolygon": [
+          {
+            "x": 52,
+            "y": 645
+          },
+          {
+            "x": 519,
+            "y": 645
+          },
+          {
+            "x": 519,
+            "y": 677
+          },
+          {
+            "x": 52,
+            "y": 677
+          }
+        ],
+        "words": [
+          {
+            "text": "Desempenho",
+            "boundingPolygon": [
+              {
+                "x": 55,
+                "y": 647
+              },
+              {
+                "x": 222,
+                "y": 646
+              },
+              {
+                "x": 221,
+                "y": 678
+              },
+              {
+                "x": 55,
+                "y": 677
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "por",
+            "boundingPolygon": [
+              {
+                "x": 228,
+                "y": 646
+              },
+              {
+                "x": 274,
+                "y": 646
+              },
+              {
+                "x": 274,
+                "y": 678
+              },
+              {
+                "x": 228,
+                "y": 678
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "seção",
+            "boundingPolygon": [
+              {
+                "x": 280,
+                "y": 646
+              },
+              {
+                "x": 352,
+                "y": 646
+              },
+              {
+                "x": 352,
+                "y": 678
+              },
+              {
+                "x": 280,
+                "y": 678
+              }
+            ],
+            "confidence": 0.864
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 361,
+                "y": 646
+              },
+              {
+                "x": 393,
+                "y": 646
+              },
+              {
+                "x": 393,
+                "y": 678
+              },
+              {
+                "x": 360,
+                "y": 678
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "avaliação",
+            "boundingPolygon": [
+              {
+                "x": 400,
+                "y": 646
+              },
+              {
+                "x": 517,
+                "y": 646
+              },
+              {
+                "x": 517,
+                "y": 678
+              },
+              {
+                "x": 400,
+                "y": 678
+              }
+            ],
+            "confidence": 0.791
+          }
+        ]
+      },
+      {
+        "text": "Para fortalecer ainda mais suas habilidades nas áreas a seguir, veja a seção Material de Aprendizagem Personalizado",
+        "boundingPolygon": [
+          {
+            "x": 73,
+            "y": 711
+          },
+          {
+            "x": 894,
+            "y": 711
+          },
+          {
+            "x": 894,
+            "y": 732
+          },
+          {
+            "x": 73,
+            "y": 731
+          }
+        ],
+        "words": [
+          {
+            "text": "Para",
+            "boundingPolygon": [
+              {
+                "x": 75,
+                "y": 712
+              },
+              {
+                "x": 105,
+                "y": 712
+              },
+              {
+                "x": 105,
+                "y": 731
+              },
+              {
+                "x": 75,
+                "y": 730
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "fortalecer",
+            "boundingPolygon": [
+              {
+                "x": 109,
+                "y": 712
+              },
+              {
+                "x": 177,
+                "y": 712
+              },
+              {
+                "x": 177,
+                "y": 731
+              },
+              {
+                "x": 109,
+                "y": 731
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "ainda",
+            "boundingPolygon": [
+              {
+                "x": 181,
+                "y": 712
+              },
+              {
+                "x": 219,
+                "y": 712
+              },
+              {
+                "x": 219,
+                "y": 732
+              },
+              {
+                "x": 181,
+                "y": 731
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "mais",
+            "boundingPolygon": [
+              {
+                "x": 223,
+                "y": 712
+              },
+              {
+                "x": 258,
+                "y": 712
+              },
+              {
+                "x": 257,
+                "y": 732
+              },
+              {
+                "x": 223,
+                "y": 732
+              }
+            ],
+            "confidence": 0.989
+          },
+          {
+            "text": "suas",
+            "boundingPolygon": [
+              {
+                "x": 262,
+                "y": 712
+              },
+              {
+                "x": 291,
+                "y": 712
+              },
+              {
+                "x": 291,
+                "y": 732
+              },
+              {
+                "x": 261,
+                "y": 732
+              }
+            ],
+            "confidence": 0.992
+          },
+          {
+            "text": "habilidades",
+            "boundingPolygon": [
+              {
+                "x": 295,
+                "y": 711
+              },
+              {
+                "x": 377,
+                "y": 711
+              },
+              {
+                "x": 377,
+                "y": 732
+              },
+              {
+                "x": 295,
+                "y": 732
+              }
+            ],
+            "confidence": 0.984
+          },
+          {
+            "text": "nas",
+            "boundingPolygon": [
+              {
+                "x": 381,
+                "y": 711
+              },
+              {
+                "x": 406,
+                "y": 711
+              },
+              {
+                "x": 406,
+                "y": 733
+              },
+              {
+                "x": 381,
+                "y": 733
+              }
+            ],
+            "confidence": 0.994
+          },
+          {
+            "text": "áreas",
+            "boundingPolygon": [
+              {
+                "x": 410,
+                "y": 711
+              },
+              {
+                "x": 447,
+                "y": 711
+              },
+              {
+                "x": 447,
+                "y": 733
+              },
+              {
+                "x": 410,
+                "y": 733
+              }
+            ],
+            "confidence": 0.7
+          },
+          {
+            "text": "a",
+            "boundingPolygon": [
+              {
+                "x": 451,
+                "y": 711
+              },
+              {
+                "x": 459,
+                "y": 711
+              },
+              {
+                "x": 459,
+                "y": 733
+              },
+              {
+                "x": 451,
+                "y": 733
+              }
+            ],
+            "confidence": 0.997
+          },
+          {
+            "text": "seguir,",
+            "boundingPolygon": [
+              {
+                "x": 463,
+                "y": 711
+              },
+              {
+                "x": 509,
+                "y": 711
+              },
+              {
+                "x": 509,
+                "y": 733
+              },
+              {
+                "x": 463,
+                "y": 733
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "veja",
+            "boundingPolygon": [
+              {
+                "x": 513,
+                "y": 711
+              },
+              {
+                "x": 543,
+                "y": 711
+              },
+              {
+                "x": 542,
+                "y": 733
+              },
+              {
+                "x": 513,
+                "y": 733
+              }
+            ],
+            "confidence": 0.993
+          },
+          {
+            "text": "a",
+            "boundingPolygon": [
+              {
+                "x": 547,
+                "y": 711
+              },
+              {
+                "x": 556,
+                "y": 712
+              },
+              {
+                "x": 555,
+                "y": 733
+              },
+              {
+                "x": 546,
+                "y": 733
+              }
+            ],
+            "confidence": 0.998
+          },
+          {
+            "text": "seção",
+            "boundingPolygon": [
+              {
+                "x": 560,
+                "y": 712
+              },
+              {
+                "x": 600,
+                "y": 712
+              },
+              {
+                "x": 599,
+                "y": 733
+              },
+              {
+                "x": 559,
+                "y": 733
+              }
+            ],
+            "confidence": 0.722
+          },
+          {
+            "text": "Material",
+            "boundingPolygon": [
+              {
+                "x": 604,
+                "y": 712
+              },
+              {
+                "x": 662,
+                "y": 712
+              },
+              {
+                "x": 661,
+                "y": 733
+              },
+              {
+                "x": 603,
+                "y": 733
+              }
+            ],
+            "confidence": 0.996
+          },
+          {
+            "text": "de",
+            "boundingPolygon": [
+              {
+                "x": 666,
+                "y": 712
+              },
+              {
+                "x": 684,
+                "y": 712
+              },
+              {
+                "x": 684,
+                "y": 733
+              },
+              {
+                "x": 665,
+                "y": 733
+              }
+            ],
+            "confidence": 0.999
+          },
+          {
+            "text": "Aprendizagem",
+            "boundingPolygon": [
+              {
+                "x": 688,
+                "y": 712
+              },
+              {
+                "x": 787,
+                "y": 712
+              },
+              {
+                "x": 787,
+                "y": 732
+              },
+              {
+                "x": 688,
+                "y": 733
+              }
+            ],
+            "confidence": 0.995
+          },
+          {
+            "text": "Personalizado",
+            "boundingPolygon": [
+              {
+                "x": 796,
+                "y": 712
+              },
+              {
+                "x": 894,
+                "y": 713
+              },
+              {
+                "x": 893,
+                "y": 732
+              },
+              {
+                "x": 795,
+                "y": 732
+              }
+            ],
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "text": "abaixo.",
+        "boundingPolygon": [
+          {
+            "x": 74,
+            "y": 738
+          },
+          {
+            "x": 127,
+            "y": 738
+          },
+          {
+            "x": 127,
+            "y": 755
+          },
+          {
+            "x": 74,
+            "y": 755
+          }
+        ],
+        "words": [
+          {
+            "text": "abaixo.",
+            "boundingPolygon": [
+              {
+                "x": 75,
+                "y": 739
+              },
+              {
+                "x": 127,
+                "y": 740
+              },
+              {
+                "x": 127,
+                "y": 756
+              },
+              {
+                "x": 75,
+                "y": 756
+              }
+            ],
+            "confidence": 0.993
+          }
+        ]
+      }
+    ]
+  }
+]
